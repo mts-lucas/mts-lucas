@@ -10,13 +10,13 @@ I am Lucas an aspiring DEV
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndeck&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## :man_technologist: technologies
+## :man_technologist: technologies I'm working on
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-   <img align="center" alt="Lucas-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Lucas-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+   <img align="center" alt="Lucas-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+   <img align="center" alt="Lucas-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+   <img align="center" alt="Lucas-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
 ##
@@ -30,6 +30,6 @@ I am Lucas an aspiring DEV
    <a href="https://profile.codersrank.io/user/w1ndeck/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=" target="_blank"></a>
    
  
-  ![Snake animation](https://github.com/rafaballerini/W1ndeck/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/W1ndeck/W1ndeck/blob/output/github-contribution-grid-snake.svg)
  
 </div>
