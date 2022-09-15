@@ -1,7 +1,7 @@
 ### Hello there 👋
 I am Lucas an aspiring DEV
 
-- 🌱 I’m currently learning Django framework and I'm producing a game using PYGAME
+- 🌱 I’m currently learning Django framework and I'm producing a game using pygame library
 - 🎓 Undergratuated in Information Systems for UFRN
 
 <div align="center">
