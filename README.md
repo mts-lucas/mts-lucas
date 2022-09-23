@@ -1,7 +1,7 @@
 ### Hello there 👋
 I am Lucas an aspiring DEV
 
-- 🌱 I’m currently learning C and I'm producing a game using pygame library
+- 🌱 I’m currently learning c and I'm producing a game using pygame library
 - 🎓 Undergratuated in Information Systems for UFRN
 
 <div align="center">
