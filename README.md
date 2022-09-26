@@ -1,7 +1,9 @@
 ### Hello there 👋
 I am Lucas an aspiring DEV
 
-- 🌱 I’m currently learning c and I'm producing a game using pygame library
+- 🌱 I’m currently learning C and developing a CRUD in that language 
+- 🕹️ I'm producing a game using pygame library
+- 📙 I'm participating in a data science Bootcamp using the python language and the pandas library
 - 🎓 Undergratuated in Information Systems for UFRN
 
 <div align="center">
@@ -10,13 +12,16 @@ I am Lucas an aspiring DEV
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndeck&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## :man_technologist: technologies I'm working on
+## :man_technologist: technologies I'm working on or studying
 
 <div style="display: inline_block"><br>
+
   <img align="center" alt="Lucas-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-   <img align="center" alt="Lucas-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-   <img align="center" alt="Lucas-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-   <img align="center" alt="Lucas-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Lucas-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Lucas-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Lucas-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Lucas-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+   
 </div>
 
 ##
