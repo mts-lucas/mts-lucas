@@ -13,7 +13,7 @@ I am Lucas an aspiring DEV
 </div>
 
   
-## 🕰️ Technologies I've had contact with
+### 🕰️ Technologies I've had contact with
 
 <div style="display: inline_block"><br>
 
@@ -21,7 +21,7 @@ I am Lucas an aspiring DEV
   
 </div>
   
-## 🎒 technologies I'm studying
+### 🎒 technologies I'm studying
   
 <div style="display: inline_block"><br>
   
@@ -33,7 +33,7 @@ I am Lucas an aspiring DEV
 </div>
   
 
-## :man_technologist: Technologies that I have a certain domain
+### :man_technologist: Technologies that I have a certain domain
 
 <div style="display: inline_block"><br>
 
@@ -44,9 +44,9 @@ I am Lucas an aspiring DEV
 
 ##
 
-### :calling: Contacts:
+<!-- ### :calling: Contacts: -->
 
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/iam.lusca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lmateus1067@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-mateus-241b07195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
