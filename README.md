@@ -13,7 +13,7 @@ I am Lucas an aspiring DEV
 </div>
 
   
-### 🕰️ Technologies I've had contact with
+## 🕰️ Technologies I've had contact with
 
 <div style="display: inline_block"><br>
 
@@ -21,7 +21,7 @@ I am Lucas an aspiring DEV
   
 </div>
   
-### 🎒 technologies I'm studying
+## 🎒 technologies I'm studying
   
 <div style="display: inline_block"><br>
   
@@ -33,7 +33,7 @@ I am Lucas an aspiring DEV
 </div>
   
 
-### :man_technologist: Technologies that I have a certain domain
+## :man_technologist: Technologies that I have a certain domain
 
 <div style="display: inline_block"><br>
 
