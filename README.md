@@ -2,7 +2,7 @@
 I am Lucas an aspiring DEV
 
 - 🎓 Undergratuated in Information Systems for UFRN
-- I'm currently studying django framework, HTML and CSS
+- 📖 I'm currently studying django framework, HTML and CSS
 
 <div align="center">
   <a href="https://github.com/W1ndeck">
