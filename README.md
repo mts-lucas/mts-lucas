@@ -5,9 +5,9 @@ I am Lucas an aspiring DEV
 - 📖 I'm currently studying django framework, HTML and CSS
 
 <div align="center">
-  <a href="https://github.com/W1ndeck">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=W1ndeck&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndeck&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/mts-lucas">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mts-lucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mts-lucas&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   
@@ -58,6 +58,6 @@ I am Lucas an aspiring DEV
    <a href="https://profile.codersrank.io/user/w1ndeck/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=" target="_blank"></a>
    
  
-  ![Snake animation](https://github.com/W1ndeck/W1ndeck/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/W1ndeck/mts-lucas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
