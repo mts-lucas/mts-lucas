@@ -6,8 +6,8 @@ I am Lucas an aspiring DEV
 
 <div align="center">
   <a href="https://github.com/mts-lucas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mts-lucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mts-lucas&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mts-lucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mts-lucas&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=tokyonight&border_radius=20"/>
 </div>
 
   
