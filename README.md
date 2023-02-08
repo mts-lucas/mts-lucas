@@ -38,5 +38,5 @@ I am Lucas an aspiring DEV
   <a href="https://www.linkedin.com/in/lucas-mateus-241b07195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://profile.codersrank.io/user/mts-lucas/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=" target="_blank"></a>
    
- 
+ ![Snake animation](https://github.com/mts-lucas/mts-lucas/blob/output/github-contribution-grid-snake.svg)
 </div>
