@@ -1,6 +1,9 @@
-### Hello there 👋
+# Hello World, Welcome to my profile
 
-I am Lucas and I was born in 2000. I'm Brazilian and I'm from the countryside of Rio Grande do Norte. I've been studying Information Systems since 2022 and my focus is on Back-end development, although I'm also curious about the mobile world. Currently, I'm focusing on learning Python language for web development using the Django framework. My greatest virtue is my responsibility towards my goals and I hope to contribute to the dev community with my studies.
+
+I'm Lucas and I was born in 2000. I'm Brazilian and I'm from the countryside of Rio Grande do Norte. I've been studying Information Systems at the Federal University of Rio Grande do Norte (UFRN) since 2022 and my focus is on Back-end development, although I'm also curious about the mobile world. Currently, I'm focusing on learning Python language for web development using the Django framework. My greatest virtue is my responsibility towards my goals and I hope to contribute to the dev community with my studies.
+
+___
 
 <div align="center">
   <a href="https://github.com/mts-lucas">
@@ -25,8 +28,8 @@ I am Lucas and I was born in 2000. I'm Brazilian and I'm from the countryside of
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   
-
-##
+  
+___
 
 <!-- ### :calling: Contacts: -->
 
