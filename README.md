@@ -1,8 +1,6 @@
 ### Hello there 👋
-I am Lucas an aspiring DEV
 
-- 🎓 Undergratuated in Information Systems for UFRN
-- 📖 I'm currently studying django framework, HTML and CSS
+I am Lucas and I was born in 2000. I'm Brazilian and I'm from the countryside of Rio Grande do Norte. I've been studying Information Systems since 2022 and my focus is on Back-end development, although I'm also curious about the mobile world. Currently, I'm focusing on learning Python language for web development using the Django framework. My greatest virtue is my responsibility towards my goals and I hope to contribute to the dev community with my studies.
 
 <div align="center">
   <a href="https://github.com/mts-lucas">
