@@ -1,8 +1,6 @@
 # Hello World, Welcome to my profile
 
 
-<!-- I'm Lucas and I was born in 2000. I'm Brazilian and I'm from the countryside of Rio Grande do Norte. I've been studying Information Systems at the Federal University of Rio Grande do Norte (UFRN) since 2022 and my focus is on Back-end development, although I'm also curious about the mobile world. Currently, I'm focusing on learning Python language for web development using the Django framework. My greatest virtue is my responsibility towards my goals and I hope to contribute to the dev community with my studies. -->
-
   <div style="display: flex;">
       <div style="flex: 1; margin-right: 20px; text-align: center;">
           <img src="img/perfil_cartoon.jpg" alt="me" style="border-radius: 2%;">
