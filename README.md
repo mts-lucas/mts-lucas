@@ -1,16 +1,14 @@
 # Hello World, Welcome to my profile
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 20px;">
-        <img src="img/perfil_cartoon.jpg" alt="eu" style="border-radius: 2%; width: 300px; height: auto; float: left; margin-right: 10px;">
-    </div>
-    <div style="flex: 2;">
-        <p>I'm Lucas and I was born in 2000. I'm Brazilian and I'm from the countryside of Rio Grande do Norte. I've been studying Information Systems at the Federal University of Rio Grande do Norte (UFRN) since 2022 and my focus is on Back-end development, although I'm also curious about the mobile world. Currently, I'm focusing on learning Python language for web development using the Django and DRF.
-        At present, I have the exciting opportunity to work as a backend developer at Labens, where I am involved in challenging projects and engaged in continuous learning. I also contribute to extension activities at the Casa do Artesão in Caicó, applying my skills to support the local community.
-        My greatest virtue is my responsibility towards my goals and I hope to contribute to the dev community with my studies.
-        </p>
-    </div>
-</div>
+<img align="right" alt="Make by: https://twitter.com/web_lici" src="img/perfil_cartoon.jpg" width="300" height="auto"/>
+
+
+I'm Lucas and I was born in 2000. I'm Brazilian and I'm from the countryside of Rio Grande do Norte. I've been studying Information Systems at the Federal University of Rio Grande do Norte (UFRN) since 2022 and my focus is on Back-end development, although I'm also curious about the mobile world. Currently, I'm focusing on learning Python language for web development using the Django and DRF.
+
+At present, I have the exciting opportunity to work as a backend developer at Labens, where I am involved in challenging projects and engaged in continuous learning. I also contribute to extension activities at the Casa do Artesão in Caicó, applying my skills to support the local community.
+
+My greatest virtue is my responsibility towards my goals and I hope to contribute to the dev community with my studies.
+  
 
 
 ___
