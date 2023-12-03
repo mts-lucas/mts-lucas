@@ -50,7 +50,8 @@ ___
   <a href="https://twitter.com/OcaradoDjango" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-mateus-241b07195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://profile.codersrank.io/user/mts-lucas/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=" target="_blank"></a>
-
+  <a href="https://leetcode.com/mts-lucas/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank"></a>
+  
   
    
  <!-- ![Snake animation](https://github.com/mts-lucas/mts-lucas/blob/output/github-contribution-grid-snake.svg) -->
