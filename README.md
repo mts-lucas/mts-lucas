@@ -3,11 +3,13 @@
 <!-- <img align="right" alt="Make by: https://twitter.com/web_lici" src="img/perfil_cartoon.jpg" width="300" height="auto"/> -->
 
 
-I'm Lucas and I was born in 2000. I'm Brazilian and I'm from the countryside of Rio Grande do Norte. I've been studying Information Systems at the Federal University of Rio Grande do Norte (UFRN) since 2022 and my focus is on Back-end development, although I'm also curious about the mobile world. Currently, I'm focusing on learning Python language for web development using the Django and DRF.
+Hi! I’m Lucas, a back-end developer from the countryside of Rio Grande do Norte, Brazil. I'm currently studying Information Systems at UFRN (since 2022) and working as a back-end developer at Labens, where I’m involved in projects that challenge me to grow every day.
 
-At present, I have the exciting opportunity to work as a backend developer at Labens, where I am involved in challenging projects and engaged in continuous learning. I also contribute to extension activities at the Casa do Artesão in Caicó, applying my skills to support the local community.
+My main focus is web development with Python, especially using Django and Django REST Framework. I’m also curious about mobile development and always open to learning new things that expand my perspective as a developer.
 
-My greatest virtue is my responsibility towards my goals and I hope to contribute to the dev community with my studies.
+In parallel, I contribute to social extension projects like Casa do Artesão in Caicó, where I apply tech to support local communities — something I deeply care about.
+
+I take pride in being consistent and responsible with my goals, and I hope to give back to the dev community through my journey and what I learn along the way.
   
 
 
