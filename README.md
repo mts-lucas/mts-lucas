@@ -60,6 +60,8 @@ ___
    <a href="https://profile.codersrank.io/user/mts-lucas/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=" target="_blank"></a>
   <a href="https://leetcode.com/mts-lucas/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank"></a>
   <a href="https://www.hackerrank.com/profile/lmateus1067" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
+  <a href="https://dev.to/mts-lucas" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+  
   
    
  <!-- ![Snake animation](https://github.com/mts-lucas/mts-lucas/blob/output/github-contribution-grid-snake.svg) -->
