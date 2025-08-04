@@ -7,7 +7,7 @@ Hi! I’m Lucas, a back-end developer from the countryside of Rio Grande do Nort
 
 My main focus is web development with Python, especially using Django and Django REST Framework. I’m also curious about mobile development and always open to learning new things that expand my perspective as a developer.
 
-In parallel, I contribute to social extension projects like Casa do Artesão in Caicó, where I apply tech to support local communities — something I deeply care about.
+In parallel, I contribute to social extension projects like Casa do Artesão in Caicó, where I apply tech to support local communities, something I deeply care about.
 
 I take pride in being consistent and responsible with my goals, and I hope to give back to the dev community through my journey and what I learn along the way.
   
