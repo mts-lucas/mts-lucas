@@ -3,11 +3,11 @@
 <!-- <img align="right" alt="Make by: https://twitter.com/web_lici" src="img/perfil_cartoon.jpg" width="300" height="auto"/> -->
 
 
-Hi! I’m Lucas, a back-end developer from the countryside of Rio Grande do Norte, Brazil. I'm currently studying Information Systems at UFRN (since 2022) and working as a back-end developer at Labens, where I’m involved in projects that challenge me to grow every day.
+Hi! I’m Lucas, a full-stack developer from the countryside of Rio Grande do Norte, Brazil. I hold a Bachelor's degree in Information Systems from UFRN and currently work as a full-stack developer at Objeto Relacional Sistemas, where I design and build solutions with Kotlin/Ktor on the back end and React/Next.js with TypeScript on the front end.
 
-My main focus is web development with Python, especially using Django and Django REST Framework. I’m also curious about mobile development and always open to learning new things that expand my perspective as a developer.
+Day to day, I work on REST APIs, centralized authentication with Keycloak (SSO and OpenID Connect), role-based access control and multitenant systems with data isolation per organization, always backed by automated tests with JUnit, Jest and Playwright. Before that, I spent a few years building web applications with Python, Django and Django REST Framework, and I'm still curious about mobile development and always open to learning new things.
 
-In parallel, I contribute to social extension projects like Casa do Artesão in Caicó, where I apply tech to support local communities, something I deeply care about.
+Along the way, I've also contributed to social extension projects like Casa do Artesão in Caicó, applying tech to support local communities, something I deeply care about.
 
 I take pride in being consistent and responsible with my goals, and I hope to give back to the dev community through my journey and what I learn along the way.
   
@@ -49,6 +49,8 @@ ___
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   ![keycloak](https://img.shields.io/badge/Keycloak-4D4D4D.svg?style=for-the-badge&logo=Keycloak&logoColor=white)
+  ![SeaweedFS](https://img.shields.io/badge/SeaweedFS-%231E88E5.svg?style=for-the-badge&logoColor=white)
+
   <!-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
